@@ -1,4 +1,4 @@
-# Co-WIN2.0-Sensor-Network
+# Train-the-Trainer Workshops and Co-WIN2.0-Sensor-Network 
 The development of Automatic Weather Stations (AWS) Network was becoming more universal 
 in recent decade, prior to setting up AWS by commercials and individual uses, AWS mainly 
 served for meteorological monitoring application by governmental institutes.
